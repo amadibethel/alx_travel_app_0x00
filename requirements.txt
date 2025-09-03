@@ -1,0 +1,10 @@
+This file lists all the required Python packages for the project.
+
+django==5.0.3
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+drf-yasg==1.21.7
+django-environ==0.11.2
+celery==5.3.6
+rabbitmq
+mysqlclient==2.2.1
